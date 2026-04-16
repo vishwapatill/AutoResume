@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Food Pairing Recommendation",
+    "link": "https://github.com/vishwapatill/FOOD-PAIRING-RECOMMENDATION-SYSTEM-USING-GRAPHS",
+    "points": [
+      "Graph-based ingredient modeling",
+      "Metapath2vec embeddings",
+      "Trained on 6000 recipes"
+    ]
+  },
+  {
+    "name": "Outfit Compatibility Model",
+    "link": "https://github.com/vishwapatill/WARDROBE-WIZARD",
+    "points": [
+      "Used ResNet-50 + YOLOv8",
+      "Triplet loss embedding model",
+      "Improved compatibility prediction"
+    ]
+  },
+  {
+    "name": "House Rental App (Nimma Manne)",
+    "link": "https://nimmamane.in/",
+    "points": [
+      "Full-stack React + PostgreSQL app",
+      "Implemented RLS security",
+      "Built production-ready system"
+    ]
+  }
+]

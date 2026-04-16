@@ -1,0 +1,8 @@
+
+PyGithub>=2.1.1          # GitHub REST API
+playwright>=1.40.0       # LinkedIn scraping fallback + PDF generation
+requests>=2.31.0         # HTTP utility
+python-dateutil>=2.8.2   # Flexible date parsing
+
+# PDF (next module)
+jinja2>=3.1.2            # HTML templating
